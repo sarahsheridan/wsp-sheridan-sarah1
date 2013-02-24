@@ -1,0 +1,25 @@
+
+
+body{
+	max-width: 960px;
+	font-family: 'Bree Serif', serif;
+	background: url(images/background-tile.jpg);
+}
+
+#wrapper{
+	width: 100%;
+	background-color: white;
+}
+	
+/*media Queries..............................................*/
+
+/*tablet portrait size to standard 960 (devices & browsers)*/
+@media screen and (min-width:768px) and (max-width:959px){
+
+
+/* mobile landscape size to tablet portrait size (devices and browsers)*/
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+	
+/*mobile portrait size to mobile landscape size (devices and browsers)*/
+@media only screen and (max-width: 479px) {
