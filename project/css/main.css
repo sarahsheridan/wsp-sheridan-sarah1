@@ -16,13 +16,14 @@ body{
 #escape-hatch{
 	float:left;
 	width: 25%;
-	padding: 
+	padding:0;
 }
 
 #escape-hatch h1{
 	font-size: 1em;
 	color: #1b4424;
 	float:left;
+	padding:0;
 }
 	
 #escape-hatch img{
@@ -33,6 +34,7 @@ ul{
 	float:right;
 	background-color: #1b4424;
 	width: 72.916666666667% /*700 px / 960px*/;
+	padding:0;
 }
 
 li{
