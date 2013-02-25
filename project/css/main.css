@@ -67,7 +67,7 @@ nav a:hover, nav a:active{
 }
 
 footer{
-	clear:float;
+	clear:both;
 	background-color: ##03935e;
 }
 
