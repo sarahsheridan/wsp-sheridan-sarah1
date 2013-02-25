@@ -16,6 +16,7 @@ body{
 #escape-hatch{
 	float:left;
 	width: 25%;
+	padding: 
 }
 
 #escape-hatch h1{
@@ -23,6 +24,10 @@ body{
 	color: #1b4424;
 }
 	
+#escape-hatch img{
+	float:left;
+}
+
 ul{
 	float:right;
 	background-color: #1b4424;
