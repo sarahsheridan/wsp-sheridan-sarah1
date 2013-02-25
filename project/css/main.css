@@ -62,6 +62,7 @@ nav a:hover, nav a:active{
 
 .secondarycta{
 	width: 22.91666666667%;
+	float: left;
 }
 
 /*media Queries..............................................*/
