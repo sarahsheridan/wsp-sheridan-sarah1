@@ -63,8 +63,11 @@ nav a:hover, nav a:active{
 .secondarycta{
 	width: 22.91666666667%;
 	float: left;
+	padding: 4.545454545454%;
 }
 
+footer section{
+	width: 
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
