@@ -114,17 +114,24 @@ aside img{
 	padding: 0, 9.42708333333%, 0, 9.42708333333%;
 }
 
-#topcontent img{
+#topcontent{
 	clear: both;
+	width: 81.1458333333333%;
+	margin: 0 auto;
+}
+
+#topcontent img{
+	max-width:48.78048780%;
 	float: left;
 }
 
 #topcontenttext{
 	float: right;
+	380px
 }
 
 .basketinfo{
-	clear:both;
+	clear: both;
 	width: 22.91666666667%;
 	float: left;
 	padding: 1.04166666666667%;
