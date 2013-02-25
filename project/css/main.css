@@ -15,6 +15,7 @@ body{
 
 #escape-hatch{
 	float:left;
+	width: 25%;
 }
 
 #escape-hatch h1{
