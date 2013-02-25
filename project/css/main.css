@@ -67,6 +67,7 @@ nav a:hover, nav a:active{
 }
 
 footer{
+	width: 100%;
 	clear:both;
 	background-color: #03935e;
 }
@@ -75,6 +76,7 @@ footer section{
 	float: left;
 	display: inline;
 	width: 33.3333333333%;
+	text-align; center;
 }
 
 aside{
