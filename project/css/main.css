@@ -32,7 +32,7 @@ body{
 ul{
 	float:right;
 	background-color: #1b4424;
-	width: 73.958333333333%;
+	width: 72.916666666667% /*700 px / 960px*/;
 }
 
 li{
