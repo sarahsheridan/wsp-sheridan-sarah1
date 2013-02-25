@@ -51,6 +51,7 @@ nav a:link, nav a:visited{
 	background-color: #1b4424;
 	color: white;
 	line-height: 2em;
+	text-decoration: none;
 }
 	
 nav a:hover, nav a:active{
