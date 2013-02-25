@@ -9,6 +9,7 @@ body{
 #wrapper{
 	width: 100%;
 	background-color: white;
+	padding: 0;
 }
 	
 /*Header......................................................*/
@@ -41,7 +42,7 @@ li{
 	display: inline-block;
 	color: white;
 	line-height: 2em;
-	padding: 
+	padding: 1.428571428571%;
 	}
 	
 nav a:link, nav a:visited{
