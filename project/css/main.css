@@ -67,6 +67,10 @@ nav a:hover, nav a:active{
 	padding: 1.04166666666667%;
 }
 
+.secondarycta img{
+	padding: 0;
+}
+
 h3{
 	background-color: #1b4424;
 	color: white;
