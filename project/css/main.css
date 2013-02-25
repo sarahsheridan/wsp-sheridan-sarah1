@@ -55,6 +55,15 @@ nav a:hover, nav a:active{
 	color: white;
 	background-color: #03935e:
 }
+
+/*..........................................................end*/
+
+/*content for pages.............................................*/
+
+.secondarycta{
+	width: 22.91666666667%;
+}
+
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
