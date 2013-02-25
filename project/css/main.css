@@ -61,14 +61,7 @@ nav a:hover, nav a:active{
 	line-height: 2em;
 }
 
-#topcontent img{
-	clear: both;
-	float: left;
-}
 
-#topcontenttext{
-	float: right;
-}
 
 /*..........................................................end*/
 
@@ -119,6 +112,21 @@ aside img{
 	max-width: 100%;
 	margin: 0 auto;
 	padding: 0, 9.42708333333%, 0, 9.42708333333%;
+}
+
+#topcontent img{
+	clear: both;
+	float: left;
+}
+
+#topcontenttext{
+	float: right;
+}
+
+.basketinfo{
+	width: 22.91666666667%;
+	float: left;
+	padding: 1.04166666666667%;
 }
 
 /*media Queries..............................................*/
