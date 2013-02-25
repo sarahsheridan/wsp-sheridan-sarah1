@@ -131,6 +131,10 @@ aside img{
 	font-weight: normal;
 }
 
+#topcontenttext h2{
+	font-size: 1.5em;
+}
+
 .basketinfo{
 	clear: both;
 	width: 22.91666666667%;
