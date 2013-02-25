@@ -76,6 +76,10 @@ section{
 	width: 33.3333333333%;
 }
 
+aside{
+	margin: 0, auto;
+}
+
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
