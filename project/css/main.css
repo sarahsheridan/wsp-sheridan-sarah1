@@ -13,6 +13,15 @@ body{
 	
 /*Header......................................................*/
 
+#escape-hatch{
+	float:left;
+}
+
+#escape-hatch h1{
+	font-size: 1em;
+	color: #1b4424;
+}
+	
 ul{
 	float:right;
 	background-color: #1b4424;
