@@ -7,7 +7,7 @@ body{
 }
 
 #wrapper{
-	width: 90%;
+	width: 100%;
 	background-color: white;
 }
 	
@@ -16,12 +16,14 @@ body{
 ul{
 	float:right;
 	background-color: #1b4424;
+	width: 73.958333333333%;
 }
 
 li{
 	display: inline-block;
 	color: white;
 	line-height: 2em;
+	padding: 
 	}
 	
 nav a:link, nav a:visited{
