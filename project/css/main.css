@@ -77,6 +77,7 @@ nav a:hover, nav a:active{
 h3{
 	background-color: #1b4424;
 	color: white;
+	margin:0;
 	padding: 0;
 }
 
