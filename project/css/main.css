@@ -66,8 +66,11 @@ nav a:hover, nav a:active{
 	padding: 1.04166666666667%;
 }
 
-footer section{
-	width: 
+section{
+	clear: both;
+	width: 33.3333333333%;
+}
+
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
