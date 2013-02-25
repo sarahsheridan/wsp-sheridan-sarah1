@@ -62,7 +62,8 @@ nav a:hover, nav a:active{
 }
 
 #topcontent img{
-	float: left:
+	clear: both;
+	float: left;
 }
 
 
