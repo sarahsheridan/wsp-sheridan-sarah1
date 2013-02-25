@@ -3,7 +3,7 @@
 body{
 	max-width: 960px;
 	font-family: 'Bree Serif', serif;
-	background: url(images/background-tile.jpg);
+	background-image: url(images/background-tile.jpg);
 }
 
 #wrapper{
@@ -11,6 +11,27 @@ body{
 	background-color: white;
 }
 	
+/*Header......................................................*/
+
+ul{
+	float:right;
+	background-color: #1b4424;
+}
+
+li{
+	display: inline;
+	color: white;
+	}
+	
+nav a:link, nav a:visited{
+	background-color: #1b4424;
+	color: white;
+}
+	
+nav a:hover, nav a:active{
+	color: white;
+	background-color: #03935e:
+}
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
