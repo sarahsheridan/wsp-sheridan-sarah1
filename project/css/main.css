@@ -66,6 +66,9 @@ nav a:hover, nav a:active{
 	float: left;
 }
 
+#topcontenttext{
+	float: right;
+}
 
 /*..........................................................end*/
 
