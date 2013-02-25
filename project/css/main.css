@@ -66,6 +66,11 @@ nav a:hover, nav a:active{
 	padding: 1.04166666666667%;
 }
 
+h2{
+	background-color: #1b4424;
+	color: white;
+}
+
 footer{
 	width: 100%;
 	clear:both;
