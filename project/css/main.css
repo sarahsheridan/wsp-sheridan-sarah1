@@ -98,7 +98,12 @@ footer section{
 	color: white;
 }
 
+aside{
+	width: 81.1458333333333%;
+}
+
 aside img{
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 0, 9.42708333333%, 0, 9.42708333333%;
 }
