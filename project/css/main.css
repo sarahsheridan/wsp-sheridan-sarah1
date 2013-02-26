@@ -128,11 +128,11 @@ aside img{
 	float: right;
 	width:50%;
 	font-weight: normal;
-	padding: 0;
 }
 
 #topcontenttext h2{
 	font-size: 1.5em;
+	padding: 0;
 }
 
 .basketinfo{
