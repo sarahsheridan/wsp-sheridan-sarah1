@@ -65,6 +65,9 @@ nav a:link, nav a:visited{
 nav a:hover, nav a:active{
 	color: white;
 	background-color: #03935e;
+	width: 11.428571428571% /*80/700*/;
+	line-height: 1.5em;
+	padding: 1.428571428571%;
 }
 
 
