@@ -44,6 +44,11 @@ li{
 	width: 11.428571428571% /*80/700*/;
 	float: left;
 	color: white;
+	text-decoration: none;
+	line-height: 1.5em;
+	padding: 1.428571428571%;
+	text-align: center;
+	list-style-type: none;
 	}
 	
 nav a:link, nav a:visited{
