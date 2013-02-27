@@ -178,6 +178,10 @@ aside img{
 	text-overflow: ellipsis;
 }
 
+.basketinfo h3{
+	font-size: 1.5em;
+}
+
 .basketinfo img{
 	max-width: 100%;
 	padding: 0;
