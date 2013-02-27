@@ -196,6 +196,9 @@ aside img{
 	margin: 0;
 }
 
+form{
+	clear: both;
+}
 
 /*media Queries..............................................*/
 
