@@ -198,8 +198,15 @@ aside img{
 
 form{
 	clear: both;
+	padding: 1.04166666667%;
+	position:relative;
 }
 
+label { 
+	display:block; 
+}
+
+label input { position:absolute; left:11em; }
 /*media Queries..............................................*/
 
 /*tablet portrait size to standard 960 (devices & browsers)*/
