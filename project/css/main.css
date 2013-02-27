@@ -206,6 +206,11 @@ label {
 	display:block; 
 }
 
+input{
+	align: right;
+}
+
+
 label input { position:absolute; left:11em; }
 /*media Queries..............................................*/
 
