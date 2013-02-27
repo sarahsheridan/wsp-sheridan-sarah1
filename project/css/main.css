@@ -169,6 +169,13 @@ aside img{
 	padding: 0;
 }
 
+.giftbasketpg{
+	clear:both;
+	display: block;
+	width:100%;
+	background-color: white;
+}
+
 .basketinfo{
 	width: 22.91666666667%;
 	float: left;
@@ -189,11 +196,6 @@ aside img{
 	margin: 0;
 }
 
-.giftbasketpg{
-	display: block;
-	width:100%;
-	background-color: white;
-}
 
 /*media Queries..............................................*/
 
