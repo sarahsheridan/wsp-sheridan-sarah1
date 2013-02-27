@@ -174,7 +174,8 @@ aside img{
 	padding: 1.04166666666667%; 
 	background-color: white;
 	height: 300px;
-	text-overflow:ellipsis;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .basketinfo img{
