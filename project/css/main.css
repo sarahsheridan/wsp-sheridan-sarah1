@@ -4,7 +4,7 @@ body{
 	max-width: 960px;
 	font-family: 'Bree Serif', serif;
 	font-weight: normal;
-	background-image: url('images/background-tile.jpg');
+	background-image: url('../images/background-tile.jpg');
 	margin: 0 auto;
 }
 
