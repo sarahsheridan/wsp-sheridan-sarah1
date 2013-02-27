@@ -50,7 +50,7 @@ li{
 	padding: 1.428571428571%;
 	text-align: center;
 	list-style-type: none;
-	}
+}
 	
 nav a:link, nav a:visited{
 	width: 11.428571428571% /*80/700*/;
@@ -147,6 +147,7 @@ aside img{
 #topcontent{
 	clear: both;
 	width: 90%;
+	display: block;
 	margin: 0 auto;
 	background-color: white;
 }
