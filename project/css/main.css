@@ -47,6 +47,7 @@ li{
 	line-height: 2em;
 	padding: 1.428571428571%;
 	text-align: center;
+	list-style-type: none;
 	}
 	
 nav a:link, nav a:visited{
