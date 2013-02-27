@@ -173,8 +173,8 @@ aside img{
 	float: left;
 	padding: 1.04166666666667%; 
 	background-color: white;
-	height: 200px;
-	overflow:hidden;
+	height: 400px;
+	overflow:ellipsis;
 }
 
 .basketinfo img{
