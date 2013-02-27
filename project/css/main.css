@@ -18,7 +18,7 @@ body{
 
 #escape-hatch{
 	float:left;
-	width: 25%;
+	max-width: 25%;
 	padding:0;
 }
 
@@ -87,7 +87,7 @@ h2{
 /*content for pages.............................................*/
 
 .secondarycta{
-	width: 22.91666666667%;
+	max-width: 22.91666666667%;
 	float: left;
 	padding: 1.04166666666667%;
 }
@@ -121,6 +121,15 @@ footer section{
 	color: white;
 }
 
+footer img{
+	max-width: 13.0555555555%;
+}
+
+#smalllogo{
+	max-width: 38.33333333333%:
+}
+	
+	
 aside{
 	width: 81.1458333333333%;
 	margin: 0 auto;
