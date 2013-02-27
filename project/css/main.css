@@ -44,7 +44,7 @@ li{
 	width: 11.428571428571% /*80/700*/;
 	float: left;
 	color: white;
-	line-height: 2em;
+	line-height: 1.5em;
 	padding: 1.428571428571%;
 	text-align: center;
 	list-style-type: none;
@@ -53,14 +53,12 @@ li{
 nav a:link, nav a:visited{
 	background-color: #1b4424;
 	color: white;
-	line-height: 2em;
 	text-decoration: none;
 }
 	
 nav a:hover, nav a:active{
 	color: white;
 	background-color: #03935e;
-	line-height: 2em;
 }
 
 
