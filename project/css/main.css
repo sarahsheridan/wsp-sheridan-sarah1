@@ -148,6 +148,7 @@ aside img{
 	clear: both;
 	width: 90%;
 	margin: 0 auto;
+	background-color: white;
 }
 
 #topcontent img{
@@ -170,6 +171,7 @@ aside img{
 	width: 22.91666666667%;
 	float: left;
 	padding: 1.04166666666667%; 
+	background-color: white;
 }
 
 .basketinfo img{
