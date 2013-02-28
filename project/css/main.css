@@ -225,6 +225,7 @@ input{
 .checkboxarea{
 	display:block;
 	clear:both;
+	text-align:right;
 }
 
 #opt-inform input{
