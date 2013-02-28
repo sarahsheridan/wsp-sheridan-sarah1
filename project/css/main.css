@@ -235,7 +235,7 @@ input{
 }
 
 #opt-inform input{
-	align:right;
+	float:right;
 }
 	
 #clearfloats{
