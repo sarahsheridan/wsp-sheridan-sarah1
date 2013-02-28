@@ -224,6 +224,7 @@ input{
 
 .checkboxarea{
 	display:block;
+	clear:both;
 }
 
 #opt-inform label{
@@ -235,6 +236,8 @@ input{
 	font-size: .8em;
 }
 
+#opt-inform input{
+	
 #clearfloats{
 	clear:both;
 }
