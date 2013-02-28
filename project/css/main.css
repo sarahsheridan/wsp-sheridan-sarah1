@@ -204,6 +204,10 @@ aside img{
 	background-color: #4db08a;
 }
 
+#contactform h3, #opt-inform h3{
+	text-align:center;
+}
+
 #contactform label{
 	display:block;
 	float: left;
