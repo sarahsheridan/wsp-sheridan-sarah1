@@ -205,7 +205,7 @@ aside img{
 label{
 	display:block;
 	float: left;
-	text-align:center;
+	text-align:right;
 	width: 30%;
 	line-height: 1em;
 	font-size: .8em;
