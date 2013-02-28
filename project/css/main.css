@@ -226,10 +226,6 @@ input{
 	display:block;
 	clear:both;
 }
-
-#opt-inform input{
-	float:right;
-}
 	
 .clearfloats{
 	clear:both;
