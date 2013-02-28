@@ -201,6 +201,7 @@ aside img{
 	width:30%;
 	float:left;
 	margin:1.5%;
+	background-color: #4db08a;
 }
 
 #contactform label{
@@ -226,6 +227,7 @@ input{
 	display:block;
 	clear:both;
 	text-align:right;
+	background-color: #4db08a;
 	color:#1b4424;
 }
 
