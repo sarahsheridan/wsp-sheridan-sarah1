@@ -202,15 +202,6 @@ form{
 	background-color: #03935e;
 }
 
-label{ 
-	display:block;
-	float: right; 
-}
-
-input{
-	float: right;
-}
-
 #clearfloats{
 	clear:both;
 }
