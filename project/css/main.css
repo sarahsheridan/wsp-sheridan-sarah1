@@ -197,10 +197,19 @@ aside img{
 	margin: 0;
 }
 
-form{
-	clear: both;
-	position: relative;
+#contactform{
+	width:33%;
+	float:left;
 }
+
+label{
+	display:block;
+	float: left;
+	text-align:right;
+	width: 30%;
+	line-height: 1.5em;
+}
+
 
 #clearfloats{
 	clear:both;
