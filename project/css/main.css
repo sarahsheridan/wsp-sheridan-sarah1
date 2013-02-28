@@ -216,7 +216,10 @@ aside img{
 }
 
 input{
-	margin: .52083333333%;
+	margin-top: .52083333333%;
+	margin-right: .52083333333%;
+	margin-bottom: .52083333333%;
+	margin-left: 3%;
 }
 
 #opt-inform{
