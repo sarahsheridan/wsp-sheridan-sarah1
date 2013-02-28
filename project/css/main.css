@@ -203,7 +203,7 @@ aside img{
 	margin:1.5%;
 }
 
-label{
+#contactform label{
 	display:block;
 	float: left;
 	text-align:right;
