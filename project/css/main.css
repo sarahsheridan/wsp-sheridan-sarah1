@@ -211,6 +211,9 @@ input{
 	align: right;
 }
 
+#clearfloats{
+	clear:both;
+}
 
 label input { position:absolute; left:11em; }
 /*media Queries..............................................*/
