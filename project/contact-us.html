@@ -31,27 +31,68 @@
 	</header>
 	
 	
-	<form name="input" action="html_form_action.asp" method="get">
-		First name: <input type="text" name="firstname"><br>
-		Last name: <input type="text" name="lastname"><br>
-		
-		Email: <input type="text" name="email"><br>
-		Confirm Email: <input type="text" name="confirmemail"><br>
-		
-		Zip Code: <input type="text" name="zipcode"><br>
-		Daytime Phone: <input type="text" name="dayphone"><br>
-		
-		Comments: <textarea rows="10" cols="30"></textarea><br>
-		<input type="submit" value="Next Step">
+	<form id="contactform" name="input" action="html_form_action.asp" method="get">
+	<h3>2. Fill out the Registration Form</h3>
+	
+		<div class="field">
+			<label>First name:</label>
+			<input type="text" name="firstname">
+		</div>
+	
+		<div class="field">
+			<label>Last name:</label>
+			<input type="text" name="lastname">
+		</div>
+	
+		<div class="field">	
+			<label>Email:</label>
+			<input type="text" name="email">
+		</div>
+	
+		<div class="field">
+			<label>Confirm Email:</label>
+			<input type="text" name="confirmemail">
+		</div>
+	
+		<div class="field">	
+			<label>Zip Code:</label>
+			<input type="text" name="zipcode">
+		</div>
+	
+		<div class="field">
+			<label>Daytime Phone:</label>
+			<input type="text" name="dayphone">
+		</div>
+	
+		<div class="field">	
+			<label>Comments:</label>
+			<textarea rows="10" cols="30"></textarea><br>
+			<input type="submit" value="Next Step">
+		</div>
+	
 	</form>
 
-	<form>
-		<label for="newsletter">Newsletter</label><input type="checkbox" name="newsletter" value="news"><br>
-		<label for="Classupdates">Class Updates<input type="checkbox" name="classupdates" value="class"><br>
-		<label for="newrecipes">New Recipes<input type="checkbox" name="newrecipes" value="recipes"><br>
-		<label for="newproducts">New Products<input type="checkbox" name="newproducts" value="products"><br>
-		<label for="specialoffers">Special Offers<input type="checkbox" name="specialoffers" value="offers"><br>
-		<input type="submit" value="Submit">
+	<form id="opt-inform" action="html_form_action.asp" method="get">
+	
+	<h3>3. Email Sign Up</h3>
+	<p>Sign up for updates on upcomming events, offers, recipes and products from Truffles and Tirfles.</p>
+	
+		<div class="checkboxarea">
+			<label for="newsletter">Newsletter</label><input type="checkbox" name="newsletter" value="news">
+		</div>
+		<div class="checkboxarea">
+			<label for="Classupdates">Class Updates<input type="checkbox" name="classupdates" value="class">
+		</div>
+		<div class="checkboxarea">
+			<label for="newrecipes">New Recipes<input type="checkbox" name="newrecipes" value="recipes">
+		</div>
+		<div class="checkboxarea">
+			<label for="newproducts">New Products<input type="checkbox" name="newproducts" value="products">
+		</div>
+		<div class="checkboxarea">
+			<label for="specialoffers">Special Offers<input type="checkbox" name="specialoffers" value="offers">
+		</div>
+			<input type="submit" value="Submit">
 	</form> 
 	
 	<footer>
