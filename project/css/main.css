@@ -222,6 +222,10 @@ aside img{
 	margin-left: 3%;
 }
 
+textarea{
+	margin: 3%;
+}
+
 #opt-inform{
 	width:30%;
 	float:left;
