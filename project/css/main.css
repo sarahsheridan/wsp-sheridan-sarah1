@@ -198,8 +198,9 @@ aside img{
 }
 
 #contactform{
-	width:33%;
+	width:30%;
 	float:left;
+	margin:1.5%;
 }
 
 label{
@@ -213,6 +214,25 @@ label{
 
 input{
 	margin: .52083333333%;
+}
+
+#opt-inform{
+	width:30%;
+	float:left;
+	margin:1.5%;
+}
+
+.checkboxarea{
+	display:block;
+}
+
+#opt-inform label{
+	display:block;
+	float:right;
+	text-align: right;
+	width: 30%;
+	line-height: 1em;
+	font-size: .8em;
 }
 
 #clearfloats{
