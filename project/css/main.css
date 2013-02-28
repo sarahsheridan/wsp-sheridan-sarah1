@@ -231,7 +231,7 @@ input{
 	float:right;
 }
 	
-#clearfloats{
+.clearfloats{
 	clear:both;
 }
 
