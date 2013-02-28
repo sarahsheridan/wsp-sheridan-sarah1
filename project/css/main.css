@@ -231,9 +231,12 @@ input{
 	display:block;
 	line-height: 1em;
 	font-size: .8em;
+	align:right;
 }
 
 #opt-inform input{
+	align:right;
+}
 	
 #clearfloats{
 	clear:both;
