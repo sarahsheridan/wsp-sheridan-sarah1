@@ -250,7 +250,7 @@ textarea{
 	text-align: right;
 }
 	
-.submit-button{
+.submit-button input{
 	font-family: 'Bree Serif', serif;
 	color: #1b4424;
 	background: -webkit-gradient(linear, left top, left bottom, from(#03935e), to(#1b4424));
