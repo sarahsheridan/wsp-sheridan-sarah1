@@ -200,7 +200,8 @@ aside img{
 form{
 	clear: both;
 	padding: 1.04166666667%;
-	position:relative;
+	background-color: #03935e;
+	opacity: 0.4:
 }
 
 label { 
