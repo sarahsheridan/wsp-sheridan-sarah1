@@ -46,6 +46,7 @@ li{
 	width: 11.428571428571% /*80/700*/;
 	float: left;
 	color: white;
+	text-align:center;
 }
 	
 nav a:link, nav a:visited{
