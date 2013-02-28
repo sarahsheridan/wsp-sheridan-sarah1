@@ -227,13 +227,6 @@ input{
 	clear:both;
 }
 
-#opt-inform label{
-	display:block;
-	line-height: 1.5em;
-	font-size: 1em;
-	align:right;
-}
-
 #opt-inform input{
 	float:right;
 }
