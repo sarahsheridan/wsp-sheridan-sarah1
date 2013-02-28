@@ -250,6 +250,14 @@ textarea{
 	text-align: right;
 }
 	
+.submit-button{
+	font-family: 'Bree Serif', serif;
+	color: #1b4424;
+	background: -webkit-gradient(linear, left top, left bottom, from(#03935e), to(#1b4424));
+	background: -moz-linear-gradient(top,  #03935e,  #1b4424);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#03935e', endColorstr='#1b4424');
+}
+
 .clearfloats{
 	clear:both;
 }
