@@ -201,7 +201,6 @@ aside img{
 	width:30%;
 	float:left;
 	margin:1.5%;
-	padding: 1%;
 	background-color: #4db08a;
 }
 
@@ -213,6 +212,7 @@ aside img{
 	line-height: 1em;
 	font-size: .8em;
 	color:#1b4424;
+	padding: 1%;
 }
 
 input{
