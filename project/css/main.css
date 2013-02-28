@@ -39,6 +39,7 @@ ul{
 	background-color: #1b4424;
 	width: 72.916666666667% /*700 px / 960px*/;
 	padding:0;
+	list-style-type:none;
 }
 
 li{
