@@ -22,6 +22,10 @@ body{
 	
 /*Header......................................................*/
 
+img{
+	max-width: 100%;
+}
+
 #escape-hatch{
 	float:left;
 	max-width: 25%;
