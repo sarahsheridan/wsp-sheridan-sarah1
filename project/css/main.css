@@ -101,6 +101,10 @@ h3{
 	padding: 0;
 	line-height: 2em;
 	font-weight: normal;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;	
 }
 
 footer ul{
@@ -163,6 +167,10 @@ aside img{
 #topcontenttext h2{
 	font-size: 1.5em;
 	padding: 0;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;	
 }
 
 .giftbasketpg{
@@ -184,6 +192,10 @@ aside img{
 
 .basketinfo h3{
 	font-size: 1em;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;	
 }
 
 .basketinfo img{
