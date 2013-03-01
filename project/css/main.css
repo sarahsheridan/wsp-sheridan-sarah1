@@ -378,6 +378,7 @@ label input { position:absolute; left:11em; }
 
 	ul{
 		clear:both;
+		background-color:white;
 	}
 	
 	nav li{
