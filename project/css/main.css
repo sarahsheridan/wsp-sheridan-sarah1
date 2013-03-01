@@ -226,6 +226,13 @@ aside img{
 	border-radius:10px;
 }
 
+.radioarea{
+	display:block;
+	clear:both;
+	text-align:right;
+	color:#1b4424;
+}
+
 #contactform{
 	width:30%;
 	float:left;
