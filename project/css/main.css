@@ -410,6 +410,7 @@ label input { position:absolute; left:11em; }
 		width: 100%;
 		clear:both;
 		margin:0, auto;
+		text-align:center;
 	}
 	
 	#escape-hatch h1{
@@ -419,6 +420,7 @@ label input { position:absolute; left:11em; }
 	
 	.secondarycta{
 		width:50%;
+		text-align:center;
 	}
 	
 }
