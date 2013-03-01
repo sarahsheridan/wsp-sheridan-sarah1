@@ -211,6 +211,10 @@ aside img{
 	margin: 0;
 }
 
+.basketinfo p{
+	height: 200px;
+}
+
 #contactform{
 	width:30%;
 	float:left;
