@@ -402,9 +402,10 @@ label input { position:absolute; left:11em; }
 		background: -moz-linear-gradient(top,  #03935e,  #4db08a);
 		filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#03935e', endColorstr='#4db08a');
 	}
+	
 	#escapehatch{
 		clear:both;
-		margin:0 auto;
+		margin:0, auto;
 	}
 	
 	.secondarycta{
