@@ -166,6 +166,7 @@ aside img{
 
 #topcontenttext h2{
 	font-size: 1.5em;
+	text-align:center;
 	padding: 0;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
@@ -191,6 +192,7 @@ aside img{
 }
 
 .basketinfo h3{
+	text-align:center;
 	font-size: 1em;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
