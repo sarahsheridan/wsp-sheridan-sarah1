@@ -409,6 +409,10 @@ label input { position:absolute; left:11em; }
 		margin:0, auto;
 	}
 	
+	#escape-hatch h1{
+		clear:float;
+	}	
+	
 	
 	.secondarycta{
 		width:50%;
