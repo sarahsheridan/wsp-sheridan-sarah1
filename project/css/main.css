@@ -191,9 +191,7 @@ aside img{
 	float: left;
 	padding: 1.04166666666667%; 
 	background-color: white;
-	height: 300px;
 	overflow: hidden;
-	text-overflow: ellipsis;
 }
 
 .basketinfo h3{
@@ -213,6 +211,7 @@ aside img{
 
 .basketinfo p{
 	height: 200px;
+	text-overflow: ellipsis;
 }
 
 #contactform{
