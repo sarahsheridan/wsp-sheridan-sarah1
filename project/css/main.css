@@ -423,4 +423,7 @@ label input { position:absolute; left:11em; }
 		text-align:center;
 	}
 	
+	aside{
+		display:none;
+	}
 }
