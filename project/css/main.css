@@ -255,6 +255,10 @@ textarea{
 	width:30%;
 	float:left;
 	margin:1.5%;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;
 }
 
 .checkboxarea{
@@ -263,10 +267,6 @@ textarea{
 	text-align:right;
 	background-color: #4db08a;
 	color:#1b4424;
-	-moz-border-radius:10px;
-	-webkit-border-radius:10px;
-	-o-border-radius:10px;
-	border-radius:10px;
 }
 
 #opt-inform input{
