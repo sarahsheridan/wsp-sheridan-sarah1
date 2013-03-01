@@ -215,6 +215,17 @@ aside img{
 	text-overflow: ellipsis;
 }
 
+#calendarform{
+	width:30%;
+	float:left;
+	margin:1.5%;
+	background-color: #4db08a;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;
+}
+
 #contactform{
 	width:30%;
 	float:left;
