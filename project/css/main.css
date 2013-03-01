@@ -345,7 +345,7 @@ label input { position:absolute; left:11em; }
 		clear:both;
 	}
 	
-	#escapehatch{
+	#escape-hatch{
 		clear:both;
 		margin:0 auto;
 	}
@@ -362,7 +362,7 @@ label input { position:absolute; left:11em; }
 		clear:both;
 	}
 	
-	#escapehatch{
+	#escape-hatch{
 		clear:both;
 		margin:0 auto;
 	}
@@ -403,11 +403,12 @@ label input { position:absolute; left:11em; }
 		filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#03935e', endColorstr='#4db08a');
 	}
 	
-	#escapehatch{
+	#escape-hatch{
 		width: 100%;
 		clear:both;
 		margin:0, auto;
 	}
+	
 	
 	.secondarycta{
 		width:50%;
