@@ -14,6 +14,10 @@ body{
 	padding: 0;
 	box-shadow:0px 0px 10px #962107;
 	border: #962107;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;
 }
 	
 /*Header......................................................*/
