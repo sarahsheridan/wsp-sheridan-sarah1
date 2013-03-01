@@ -255,6 +255,7 @@ textarea{
 	width:30%;
 	float:left;
 	margin:1.5%;
+	background-color: #4db08a;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
 	-o-border-radius:10px;
@@ -265,7 +266,6 @@ textarea{
 	display:block;
 	clear:both;
 	text-align:right;
-	background-color: #4db08a;
 	color:#1b4424;
 }
 
