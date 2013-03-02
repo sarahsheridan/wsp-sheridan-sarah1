@@ -423,6 +423,9 @@ label input { position:absolute; left:11em; }
 		font-style: normal;
 	}
 	
+	#escape-hatch img{
+		max-width:100%;
+	}
 	
 	.secondarycta{
 		width:33%;
