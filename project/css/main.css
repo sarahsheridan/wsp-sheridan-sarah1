@@ -325,7 +325,6 @@ textarea{
 }
 
 .next-button input{
-	display:none;
 	font-family: 'Bree Serif', serif;
 	font-size:1em;
 	color: white;
@@ -339,6 +338,10 @@ textarea{
 	-o-border-radius:10px;
 	border-radius:10px;	
 	float:right;
+}
+
+#calendarform .nextbutton, #contactform .nextbutton{
+	display:none;
 }
 
 .clearfloats{
@@ -371,9 +374,11 @@ label input { position:absolute; left:11em; }
 		font-style: normal;
 	}
 	
-	.next-button input{
+	#calendarform .nextbutton, #contactform .nextbutton{
 		display:none;
 	}
+
+
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
@@ -413,7 +418,7 @@ label input { position:absolute; left:11em; }
 		margin: auto;
 	}
 	
-	.next-button input{
+	#calendarform .nextbutton, #contactform .nextbutton{
 		display:none;
 	}
 	
@@ -465,7 +470,7 @@ label input { position:absolute; left:11em; }
 		margin: auto;
 	}
 	
-	.next-button input{
+	#calendarform .nextbutton, #contactform .nextbutton{
 		display:none;
 	}
 	
