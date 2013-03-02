@@ -356,6 +356,10 @@ label input { position:absolute; left:11em; }
 		margin:0, auto;
 	}
 	
+	#escape-hatch h1{
+		float:right;
+		font-size:3ems;
+	}
 	
 	
 }
