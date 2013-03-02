@@ -435,4 +435,12 @@ label input { position:absolute; left:11em; }
 	aside{
 		display:none;
 	}
+	
+	footer li{
+		clear:float;
+	}
+	
+	#smalllogo{
+		max-width: 25%;
+	}
 }
