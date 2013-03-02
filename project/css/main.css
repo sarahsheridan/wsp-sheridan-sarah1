@@ -414,6 +414,7 @@ label input { position:absolute; left:11em; }
 	
 	#escape-hatch img{
 		float: left;
+		max-width: 25%;
 	}
 	
 	#escape-hatch h1{
