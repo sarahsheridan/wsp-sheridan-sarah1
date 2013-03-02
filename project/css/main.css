@@ -419,8 +419,7 @@ label input { position:absolute; left:11em; }
 	
 	
 	.secondarycta{
-		width:50%;
-		text-align:center;
+		display: none;
 	}
 	
 	aside{
