@@ -408,13 +408,12 @@ label input { position:absolute; left:11em; }
 	
 	#escape-hatch{
 		width: 100%;
-		clear:both;
 		margin:0, auto;
 		text-align:center;
 	}
 	
 	#escape-hatch h1{
-		clear:float;
+		float:right;
 	}	
 	
 	
