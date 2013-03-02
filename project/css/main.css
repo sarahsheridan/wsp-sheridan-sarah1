@@ -72,6 +72,10 @@ nav a:link, nav a:visited{
 	padding: 1.428571428571%;
 	text-align: center;
 	list-style-type: none;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;
 }
 	
 nav a:hover, nav a:active{
