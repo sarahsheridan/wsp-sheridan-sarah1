@@ -500,8 +500,4 @@ label input { position:absolute; left:11em; }
 		padding: 3%;
 	}
 	
-	#smalllogo{
-		max-width: 10%;
-		float:left;
-	}
 }
