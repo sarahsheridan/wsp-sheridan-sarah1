@@ -498,9 +498,7 @@ label input { position:absolute; left:11em; }
 	}
 	
 	footer li{
-		clear:both;
-		width: 100%;
-		padding: 3%;
+		display:none;
 	}
 	
 }
