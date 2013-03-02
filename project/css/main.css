@@ -433,10 +433,6 @@ label input { position:absolute; left:11em; }
 		max-width: 25%;
 	}
 	
-	#escape-hatch h1{
-		text-align: right;
-	}	
-	
 	
 	.secondarycta{
 		display: none;
