@@ -64,6 +64,7 @@ li{
 }
 	
 nav a:link, nav a:visited{
+	display: block;
 	width: 100% /*80/700*/;
 	color: white;
 	text-decoration: none;
