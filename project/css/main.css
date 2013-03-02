@@ -432,6 +432,10 @@ label input { position:absolute; left:11em; }
 		max-width:100%;
 	}
 	
+	#topcontent img{
+		clear: both;
+	}
+	
 	#topcontenttext{
 		clear: both;
 		width:100%;
