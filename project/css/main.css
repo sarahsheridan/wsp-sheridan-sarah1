@@ -470,14 +470,14 @@ label input { position:absolute; left:11em; }
 	}
 	
 	#escape-hatch{
-		max-width: 100%;
+		width: 100%;
 		margin:0, auto;
 		text-align:center;
 	}
 	
 	#escape-hatch img{
 		float: left;
-		max-width: 30%;
+		max-width: 50%;
 	}
 	
 	#escape-hatch h1{
