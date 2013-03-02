@@ -348,11 +348,12 @@ label input { position:absolute; left:11em; }
 	
 	ul{
 		clear:both;
+		width:100%;
 	}
 	
 	#escape-hatch{
 		clear:both;
-		margin:0 auto;
+		margin:0, auto;
 	}
 	
 	
