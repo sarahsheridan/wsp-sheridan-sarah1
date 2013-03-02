@@ -388,6 +388,7 @@ label input { position:absolute; left:11em; }
 		background-color:white;
 		width: 90%;
 		margin:0, auto;
+		padding:0;
 	}
 	
 	nav li{
