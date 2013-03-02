@@ -352,6 +352,7 @@ label input { position:absolute; left:11em; }
 	}
 	
 	#escape-hatch{
+		width:100%;
 		clear:both;
 		margin:0, auto;
 	}
