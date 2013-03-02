@@ -442,7 +442,7 @@ label input { position:absolute; left:11em; }
 	}
 	
 	#smalllogo{
-		max-width: 15%;
+		max-width: 10%;
 		float:left;
 	}
 }
