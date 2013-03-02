@@ -418,7 +418,7 @@ label input { position:absolute; left:11em; }
 	}
 	
 	#escape-hatch h1{
-		float:right;
+		text-align: center;
 	}	
 	
 	
