@@ -418,7 +418,7 @@ label input { position:absolute; left:11em; }
 		margin: auto;
 	}
 	
-	#calendarform #contactform #opt-inform{
+	#calendarform, #contactform, #opt-inform{
 		width:50%;
 	}
 	
@@ -474,7 +474,7 @@ label input { position:absolute; left:11em; }
 		margin: auto;
 	}
 	
-	#calendarform #contactform #opt-inform{
+	#calendarform, #contactform, #opt-inform{
 		width:100%;
 	}
 	
@@ -569,7 +569,7 @@ label input { position:absolute; left:11em; }
 		display:none;
 	}
 	
-	#calendarform #contactform #opt-inform{
+	#calendarform, #contactform, #opt-inform{
 		width:100%;
 	}
 	
