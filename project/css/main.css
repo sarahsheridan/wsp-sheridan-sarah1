@@ -489,6 +489,10 @@ label input { position:absolute; left:11em; }
 		font-style: normal;
 	}
 	
+	#topcontent img{
+		display:none;
+	}
+	
 	.secondarycta{
 		display: none;
 	}
