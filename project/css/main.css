@@ -351,6 +351,10 @@ label input { position:absolute; left:11em; }
 		width:100%;
 	}
 	
+	nav li{
+		width:16.6666666667%;
+	}
+	 
 	#escape-hatch{
 		width:100%;
 		margin:0, auto;
